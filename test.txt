@@ -1,4 +1,8 @@
 yeyeuwe
 jklshfsdf
 ннкнкнк
+<<<<<<< HEAD
 77777
+=======
+7777777
+>>>>>>> master
