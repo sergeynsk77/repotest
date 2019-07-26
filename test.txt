@@ -1,1 +1,3 @@
+first string 
+some string
 master string
